@@ -16,3 +16,7 @@ tein tehtävät 1,2,3,4
 MODUULI 4
 
 tein tehtävät 1,2,3,4,5
+
+MODUULI 5
+
+tein tehtävät 1,2,4 kolmosta en sanaanut tehtyä
