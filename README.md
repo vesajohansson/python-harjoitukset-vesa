@@ -20,3 +20,7 @@ tein tehtävät 1,2,3,4,5
 MODUULI 5
 
 tein tehtävät 1,2,4 kolmosta en sanaanut tehtyä
+
+MODUULI 6
+
+tein tehtävät 1,2,3,4,5,6,7
