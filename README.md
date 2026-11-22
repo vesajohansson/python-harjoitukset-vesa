@@ -28,3 +28,7 @@ tein tehtävät 1,2,3,4,5,6,7
 MODUULI 7
 
 tein tehtävät 1,2,3,4,5,6
+
+MODUULI 8
+
+tein tehtävät 1,2,3

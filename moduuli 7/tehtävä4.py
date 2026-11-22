@@ -6,7 +6,7 @@ def kluvut(luvut):
 
 lista = [10, 20, 30, 40]
 tulos = kluvut(lista)
-print(f"lukujen summa on : {tulos}")
+print("lukujen summa on",tulos)
 
 
 
